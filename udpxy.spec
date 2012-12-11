@@ -58,3 +58,11 @@ rm -rf %{buildroot}
 %{_initrddir}/%{name}
 %{_bindir}/%{name}
 %{_bindir}/udpxrec
+
+
+%changelog
+* Sun May 01 2011 zamir <zamir@mandriva.org> 1.0.19-0mdv2011.0
++ Revision: 661314
+- new pkg
+- create udpxy
+
