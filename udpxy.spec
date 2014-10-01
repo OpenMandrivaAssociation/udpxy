@@ -1,3 +1,5 @@
+%define debug_package %{nil}
+
 %global realversion 1.0.23-9
 
 Name:           udpxy
