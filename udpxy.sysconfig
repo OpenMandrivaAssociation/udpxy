@@ -1,2 +1,0 @@
-# Options for udpxy
-OPTIONS="-S -p 4022 -M 30 -B 1Mb"
