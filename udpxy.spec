@@ -4,7 +4,7 @@
 
 Name:           udpxy
 Version:        1.0.23
-Release:        1
+Release:        2
 Summary:        UDP-to-HTTP multicast traffic relay daemon
 Group:          System/Servers
 License:        GPLv3+
