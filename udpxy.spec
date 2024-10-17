@@ -8,7 +8,7 @@ Release:        2
 Summary:        UDP-to-HTTP multicast traffic relay daemon
 Group:          System/Servers
 License:        GPLv3+
-URL:            http://sourceforge.net/projects/udpxy/
+URL:            https://sourceforge.net/projects/udpxy/
 Source0:        http://www.udpxy.com/download/1_23/%{name}.%{realversion}-prod.tar.gz
 Source1:        udpxy.service
 Source2:	udpxy-manual-RU.rtf
