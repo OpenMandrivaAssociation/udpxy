@@ -13,6 +13,7 @@ Source0:        http://www.udpxy.com/download/1_23/%{name}.%{realversion}-prod.t
 Source1:        udpxy.service
 Source2:	udpxy-manual-RU.rtf
 
+BuildRequires:	make
 %description
 udpxy is a UDP-to-HTTP multicast traffic relay daemon:
 it forwards UDP traffic from a given multicast subscription
